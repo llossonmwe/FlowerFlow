@@ -44,6 +44,7 @@
 			window.MouseEvent = MouseEvent;
 		}
 	})(window);
+		<?php ?>
 	</script>
 <script src="runtime.js"></script><script src="polyfills-es5.js" nomodule></script><script src="polyfills.js"></script><script src="styles.js"></script><script src="scripts.js"></script><script src="vendor.js"></script><script src="main.js"></script></body>
 </html>
